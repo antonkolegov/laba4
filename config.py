@@ -1,0 +1,4 @@
+TELEGRAM_BOT_TOKEN = "8592044805:AAEcOA8OVKueyB9SIxQVtCUWkCFolqW0tMw"
+
+# Базовые валюты для кнопок
+BASE_CURRENCIES = ["USD", "EUR", "RUB", "GBP", "JPY"]
